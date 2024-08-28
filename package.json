@@ -1,0 +1,22 @@
+{
+  "name": "etpatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikzerafa/EtpaFrontendTest.git"
+  },
+  "author": "mikhail zerafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikzerafa/EtpaFrontendTest/issues"
+  },
+  "homepage": "https://github.com/mikzerafa/EtpaFrontendTest#readme",
+  "devDependencies": {
+    "cypress": "^13.14.0"
+  }
+}
